@@ -9,15 +9,60 @@
 
 ### *Insert name of related project here* ###
 
-<!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
+### Related project 1 ###
+Buzz Wire with score counter
 
-<!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+https://www.hackster.io/behrooz66/buzz-wire-with-score-counter-e308ef
 
-<!--- Include information about why this project is related to yours. --->
+![Image](wire_course.png)
 
-<!--- Repeat code above for a total of 6 related projects --->
+This project is related to mine because it is interactive and can be used as a toy. The project displays a wire which the user will go around.cThe user has a seperate wire and if the two connect, a loud sound is projected from the speaker in the form of a buzz. Meaning that they lost. 
+
+### Related project 2 ###
+Plush Toy Translator
+
+https://www.hackster.io/PaulTR/translation-toy-013bfc
+
+![Image](fluffy_toy_translator.png)
+
+This project is relate to mine because it has very similar aspects being a plush toy and being able to interact with it. In this case the user is able to speak to it and it translates the voice although the project is a little more advanced it has a similar outcome where the user is able to play with the toy and learn something new. 
+
+### Related project 3 ###
+Portal 2 talking Turret
+
+https://www.hackster.io/Novachris/talking-portal-2-turret-gun-637bf3
+
+![Image](speaker_portal.png)
+
+This project is related to mine because it has the speaker aspect to the toy. It isn't that interactive with playing and shaking though it just talks like a robot from the video game portal. 
+
+### Related project 4 ###
+Buddy the 3D-Printed Arduino Social Robot
+
+https://create.arduino.cc/projecthub/slantconcepts/buddy-the-3d-printed-arduino-social-robot-ec3dca?ref=tag&ref_id=toys&offset=23
+
+![Image](buddy_the_3d_printed_arduino_social_robot.png)
+
+This project is related to mine because it is a toy that has a social aspect to it. My project also has a social aspect to it as it answers questions you can ask it and will give a answer. The buddy social robot is considered to be 'alive' in a way as it moves and looks around the room. My bear will also be considered 'alive' as it creates sounds when shaked and also answers questions. 
+
+### Related project 5 ###
+Magic 8 Ball
+
+https://www.instructables.com/id/Digital-Magic-8-Ball/
+
+![Image](magic_8_ball.png)
+
+This project is related to mine because it is similar in interaction and it answers questions people ask. The difference is mine is in the form or a teddy bear and the user's answers are yes or no, not with a few words. 
+
+### Related project 6 ###
+Microbit Unicorn
+
+https://makecode.microbit.org/projects/robot-unicorn
+
+![Image](unicorn.png)
+
+This project is related to mine because it uses a microbit to control actions of the interactive toy. Which is similar as i am using a microbit to code and program a teddy bear to be interactive with and can answer user's questions with 'yes or no'.
+## Interaction flowchart ##
 
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
