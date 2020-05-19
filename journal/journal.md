@@ -125,33 +125,35 @@ This Screenshot was taken shortly after I decided to change the option that the 
 
 In this image I decided that I wouldn't need a second (B) button and decided to implement a shake option which will create a noise and display a smiley face. 
 
-![Image](shaking_test.png)
+![Image](shaking_test.jpg)
 
-![Image](shake_test.png)
+![Image](shake_test.jpg)
 
-![Image](shake_test2.png)
+![Image](shake_test2.jpg)
 
 I realised my shaking wasn't working, i tried multiple tests using this code and adjusting it a little to play sound but my microbit wasnt picking up the shaking option, therefore my final project will not be using shaking. So i decided to add lights being red, yellow and green. 
 
-![Image](hunt_test.png)
+![Image](hunt_test.jpg)
 
 I was thinking of adding a hunt to the project where the users will be taken around the house to find different items or treasures that will lead them to success. I started coding it by the user pressing the B button, but after the tests the hunt would'nt work. I decided to scrap the idea as the code was a little confusing. So i decided to use the Red, Green and Blue leds to light up when the bear responds to questions. 
 
-![Image](adding_p2.png)
+![Image](adding_p2.jpg)
 
 I added pins to the Y and N so that lights will display when the button is clicked. 
 
 ![Image](adding_redlight.png)
 
-![Image](testing_led.png)
+![Image](testing_led.jpg)
 
-![Image](wiring_leds.png)
+![Image](wiring_leds.)jpg
 
 I started setting up the breadboard with the other lights as seen above 
 
-![Image](rgb_working.png)
+![Image](rgb_working.jpg)
 
+I tested the breadboard leds and it worked after a few tests, I had to switch around the actual leds that are in the breadboard cause they were backwards. 
 
+![Image](yellow_light.png)
 
 ## Final code ##
 
