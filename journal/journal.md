@@ -1,4 +1,4 @@
-# 1701QCA Final project journal: Teddy Bear
+# 1701QCA Final project journal: Ask a Teddy
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
