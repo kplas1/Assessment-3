@@ -173,7 +173,7 @@ I added the last light to the top as i wanted it to flash when pressed but inste
 
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
+<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.---!>
 
 Well i found that the most successful was the intended outcome being that the user will be able to interact with the bear by playing with it and able to ask it questions. I liked how the code for the Y and N came out pretty well with no issues and i feel like it can always be improved on. 
 
@@ -185,6 +185,6 @@ What parts of your project do you feel are novel. This is IMPORTANT to help just
 
 I believe my toy is novel as it is unusal then normal teddy bears as it has features such as the saying Y or N outputs to the user which aren't usually found, it also has leds to brighten things up and can be more interactive. It has alot of aspects in one which will make much more different and fun. 
 
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
+What might be an interesting extension of this project? In what other contexts might this project be used?
 
 This project can be improved on as alot of other aspects can be added like the treasure hunt or adding movements to the bear so it can respond while making a gestures. 
