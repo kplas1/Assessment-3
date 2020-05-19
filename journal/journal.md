@@ -101,6 +101,12 @@ In this flowchart it shows the interactions for the shake and button presses. A 
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 ![Image](teddy.jpg)
 
+This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
+
+Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
+
+There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+
 In this image it shows the bear i wil be using and the microbit with speaker. 
 
 ![Image](teddy_microbit.jpg)
@@ -119,15 +125,15 @@ This Screenshot was taken shortly after I decided to change the option that the 
 
 In this image I decided that I wouldn't need a second (B) button and decided to implement a shake option which will create a noise and display a smiley face. 
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
-
-Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
-
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+![Image](shaking_test.png)
 
 ## Final code ##
 
-<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. ---> 
+
+![Image](final_code.png)
+
+![Image](final_code2.png)
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
