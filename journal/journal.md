@@ -70,13 +70,25 @@ This project is related to mine because it uses a microbit to control actions of
 ## Conceptual development ##
 
 ### Design intent ###
-<!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
+<!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->The main intent is to create a toy that can be enjoyed by all ages and is fun to interact with.I want to use a teddy bear where it can be interacted with and can answer questions you ask it like a magic 8 ball mixed with a plush toy.
 
 ### Design ideation ###
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. ---> The final concept would be a teddy bear that will be able to be interacted with and is able to answer Yes or No questions.
+
+What problem do you want to solve?
+I want to solve the problem that people are getting all these new toys but some want a classic toy but doesn't like how it is not that interactive. For example a Teddy bear is and always have been a fun toy but eventually children just set it aside on their drawers or it ends up under the bed. Therefore I want to create a bear that won't end up under the bed and will always be fun.
+
+What relation do you want to form or change? What experience do you want to create?
+The experience I want to create is a feeling of your toy being alive which creates happiness. I want the users to always have fun when playying with the bear so not only does it feel like a normal bear that is there for your comfort but the user can interact with it in other different ways. 
+
+What kinds of people will be involved in this scenario? What non-human actors/participants? What is the future scenario you imagine?
+The people that is the main target would be most likely children however I imagine a future where all ages can enjoy the interactive bear.
+
+What are the start and endpoints of your path?
+The start would be brainstorming different ways of adding the intended ideas and ending with a final product that can be interacted and played with. However i think that someone can always improve on your projects so it could be neverending but as far for now the endpoint would be the final product ready to use. 
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
