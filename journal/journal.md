@@ -177,14 +177,14 @@ I added the last light to the top as i wanted it to flash when pressed but inste
 
 Well i found that the most successful was the intended outcome being that the user will be able to interact with the bear by playing with it and able to ask it questions. I liked how the code for the Y and N came out pretty well with no issues and i feel like it can always be improved on. 
 
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+### What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)? ###
 
 I found that alot of the related projects inspired me to create different things such as displaying answers on the screen, answering questions and being an interactive toy. Some examples of this was in Toy Translator, Magic 8 ball and the Portal 2 talking turret. These inspird me as they all represent interactive projects but they are seperate so i wanted to join them together in a way. 
 
-What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
+### What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric. ###
 
 I believe my toy is novel as it is unusal then normal teddy bears as it has features such as the saying Y or N outputs to the user which aren't usually found, it also has leds to brighten things up and can be more interactive. It has alot of aspects in one which will make much more different and fun. 
 
-What might be an interesting extension of this project? In what other contexts might this project be used?
+### What might be an interesting extension of this project? In what other contexts might this project be used? ###
 
 This project can be improved on as alot of other aspects can be added like the treasure hunt or adding movements to the bear so it can respond while making a gestures. 
