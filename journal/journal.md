@@ -137,7 +137,10 @@ There will likely by a dozen or so images of the project under construction. The
 
 <!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
 
+Well i found that the most successful was the intended outcome being that the user will be able to interact with the bear by playing with it and able to ask it questions. 
+
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+
 
 What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
 
