@@ -137,11 +137,11 @@ I realised my shaking wasn't working, i tried multiple tests using this code and
 
 I was thinking of adding a hunt to the project where the users will be taken around the house to find different items or treasures that will lead them to success. I started coding it by the user pressing the B button, but after the tests the hunt would'nt work. I decided to scrap the idea as the code was a little confusing. So i decided to use the Red, Green and Blue leds to light up when the bear responds to questions. 
 
-![Image](adding_p2.png)
+![Image](adding_p2.PNG)
 
 I added pins to the Y and N so that lights will display when the button is clicked. 
 
-![Image](adding_redlight.png)
+![Image](adding_redlight.PNG)
 
 ![Image](testing_led.jpg)
 
@@ -158,6 +158,8 @@ I tested the breadboard leds and it worked after a few tests, I had to switch ar
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. ---> 
+
+
 
 ![Image](final_code.PNG)
 
