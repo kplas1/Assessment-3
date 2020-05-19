@@ -60,12 +60,6 @@ https://makecode.microbit.org/projects/robot-unicorn
 ![Image](unicorn.png)
 
 This project is related to mine because it uses a microbit to control actions of the interactive toy. Which is similar as i am using a microbit to code and program a teddy bear to be interactive with and can answer user's questions with 'yes or no'.
-## Interaction flowchart ##
-
-![Image](flowchart.png)
-
-In this flowchart it shows the interactions for the shake and button presses. A battery will be connected to the microbit which will be connected to a speaker, so when these actions take place the microbit would get information from the inputs and then give outputs. 
-
 
 ## Other research ##
 <!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
@@ -97,6 +91,8 @@ The start would be brainstorming different ways of adding the intended ideas and
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
 ![Image](flowchart.png)
+
+![Image](flowchart.PNG)
 
 In this flowchart it shows the interactions for the shake and button presses. A battery will be connected to the microbit which will be connected to a speaker, so when these actions take place the microbit would get information from the inputs and then give outputs. 
 
