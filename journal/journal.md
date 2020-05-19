@@ -145,7 +145,7 @@ I added pins to the Y and N so that lights will display when the button is click
 
 ![Image](testing_led.jpg)
 
-![Image](wiring_leds.)jpg
+![Image](wiring_leds.jpg)
 
 I started setting up the breadboard with the other lights as seen above 
 
