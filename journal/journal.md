@@ -173,11 +173,13 @@ I added the last light to the top as i wanted it to flash when pressed but inste
 ![Image](double_diamond.png)
 
 In the first diamond (discover), which was me disovering a problem to solve. Which was people wanting old school toys but making them come to live in a way or be more interactive. I tried researching a bit more which lead me to the (define phase) where I wanted ot know what I could make that would fix that problem. At first I thought of diffrent ideas such as a small lawn mower that could talk and play music but i kept coming back to dolls or teddy bears. I decided to go with teddy bear so I started developing code and using the microbit to plan out what I would make. I started with a speaker that will play a tone or song and I added code to program the microbit to display different images while making sounds. I also added a concept where the bear would respond by saying yes or no which i thought was a great idea as it was mixing things that can be fun and make he bear more interactive. I started to deliver but when I added a shake option but I found out that my shaking motion does not work in my microbit so I went back to develop to get inspiration of other plans to do. I thought I could add leds so I started delivering, testing out the different leds and re working the code for the microbit. Eventually I found a solution being a teddy bear that is much more interative by saying yes or no and flashing lights so children can have fun all the time. 
+
+
+![Image](final_image_bear.jpg)
+
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.---!>
-
-Well I found that the most successful was the intended outcome being that the user will be able to interact with the bear by playing with it and able to ask it questions. I liked how the code for the Y and N came out pretty well with no issues and I feel like it can always be improved on. I feel like alot can be improved on such as a gesture being shown or phrases will appear on the display. A big problem would be a hazard is then wiring is not covered that much and can be a hazard if children play around with that, maybe in future I will provide more covering of all of that. Another problem i ran into was wiring a button that would go all the way to the hand of the teddy bear, the wire would always disconnect and or not work so I decided to scrap that idea. 
+I found that the most successful was the intended outcome being that the user will be able to interact with the bear by playing with it and able to ask it questions. I liked how the code for the Y and N came out pretty well with no issues and I feel like it can always be improved on. I feel like alot can be improved on such as a gesture being shown or phrases will appear on the display. A big problem would be a hazard is then wiring is not covered that much and can be a hazard if children play around with that, maybe in future I will provide more covering of all of that. Another problem i ran into was wiring a button that would go all the way to the hand of the teddy bear, the wire would always disconnect and or not work so I decided to scrap that idea. 
 
 ## What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)? ##
 
@@ -191,4 +193,4 @@ I believe my toy is novel as it is unusal then normal teddy bears as it has feat
 
 This project can be improved on as alot of other aspects can be added like the treasure hunt or adding movements to the bear so it can respond while making a gestures. 
 
-![Image](final_image_bear.jpg)
+
