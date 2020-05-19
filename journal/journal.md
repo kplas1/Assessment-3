@@ -92,7 +92,7 @@ The start would be brainstorming different ways of adding the intended ideas and
 
 ![Image](flowchart.png)
 
-![Image](flowchart.PNG)
+![Image](flowchart_shake.PNG)
 
 In this flowchart it shows the interactions for the shake and button presses. A battery will be connected to the microbit which will be connected to a speaker, so when these actions take place the microbit would get information from the inputs and then give outputs. 
 
