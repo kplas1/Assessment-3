@@ -127,6 +127,32 @@ In this image I decided that I wouldn't need a second (B) button and decided to 
 
 ![Image](shaking_test.png)
 
+![Image](shake_test.png)
+
+![Image](shake_test2.png)
+
+I realised my shaking wasn't working, i tried multiple tests using this code and adjusting it a little to play sound but my microbit wasnt picking up the shaking option, therefore my final project will not be using shaking. So i decided to add lights being red, yellow and green. 
+
+![Image](hunt_test.png)
+
+I was thinking of adding a hunt to the project where the users will be taken around the house to find different items or treasures that will lead them to success. I started coding it by the user pressing the B button, but after the tests the hunt would'nt work. I decided to scrap the idea as the code was a little confusing. So i decided to use the Red, Green and Blue leds to light up when the bear responds to questions. 
+
+![Image](adding_p2.png)
+
+I added pins to the Y and N so that lights will display when the button is clicked. 
+
+![Image](adding_redlight.png)
+
+![Image](testing_led.png)
+
+![Image](wiring_leds.png)
+
+I started setting up the breadboard with the other lights as seen above 
+
+![Image](rgb_working.png)
+
+
+
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. ---> 
